@@ -4,7 +4,7 @@ from pytrends.request import TrendReq
 args = sys.argv
 
 if len(args) != 1:
-    area = args[1:]
+    area = args[1]
 else: 
     area = 'japan'
 

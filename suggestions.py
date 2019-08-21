@@ -1,3 +1,4 @@
+# もしかして
 import sys
 from pytrends.request import TrendReq
 
